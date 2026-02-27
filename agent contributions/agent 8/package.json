@@ -1,0 +1,19 @@
+{
+  "name": "agent-8-notifications",
+  "version": "1.0.0",
+  "description": "Notifications & Real-Time Events system — Component 8 of 10 for the Collaborative Task Manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "express": "^4.18.0",
+    "ws": "^8.16.0"
+  },
+  "peerDependencies": {
+    "react": "^18.0.0"
+  },
+  "keywords": ["notifications", "websocket", "realtime", "task-manager"],
+  "author": "Agent 8",
+  "license": "MIT"
+}
